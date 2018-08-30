@@ -1,0 +1,7 @@
+9000 15848 :::
+9000 15848 :::
+%WER 43.07 [ 674 / 1565, 99 ins, 60 del, 515 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_15848/decode_test/wer_13_1.0
+9000 15848 :::
+%WER -nan [ 0 / 0, 0 ins, 0 del, 0 sub ] [PARTIAL] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/my-local/exp/tri_t2_9000_15848/decode_test/wer_7_0.0
+9000 15848 :::
+%WER 43.07 [ 674 / 1565, 99 ins, 60 del, 515 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_15848/decode_test/wer_13_1.0

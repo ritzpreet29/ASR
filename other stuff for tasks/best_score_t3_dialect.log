@@ -1,0 +1,31 @@
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/local/score_words.sh: line 105: utils/best_wer.sh: No such file or directory
+2600 17000 :::
+%WER 66.12 [ 3005 / 4545, 348 ins, 362 del, 2295 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2600_17000/decode_test/wer_13_1.0
+2600 17000 :::
+%WER 66.12 [ 3005 / 4545, 348 ins, 362 del, 2295 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2600_17000/decode_test/wer_13_1.0
+%WER 25.02 [ 626 / 2502, 198 ins, 26 del, 402 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2600_17000/decode_test_1/wer_7_1.0
+%WER 66.12 [ 3005 / 4545, 348 ins, 362 del, 2295 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2600_17000/decode_test_5/wer_13_1.0
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/data/test_words/dr5_subdir_test /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/data/test_words/dr1_subdir_test :::

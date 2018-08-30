@@ -1,0 +1,10 @@
+5500 15848 :::
+%WER 45.56 [ 713 / 1565, 120 ins, 53 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5500_15848/decode_test/wer_13_0.5
+6500 15848 :::
+%WER 45.69 [ 715 / 1565, 114 ins, 64 del, 537 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6500_15848/decode_test/wer_12_1.0
+7500 15848 :::
+%WER 44.98 [ 704 / 1565, 92 ins, 75 del, 537 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7500_15848/decode_test/wer_15_1.0
+8500 15848 :::
+%WER 45.56 [ 713 / 1565, 115 ins, 67 del, 531 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8500_15848/decode_test/wer_13_1.0
+9500 15848 :::
+%WER 45.56 [ 713 / 1565, 108 ins, 52 del, 553 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9500_15848/decode_test/wer_13_1.0

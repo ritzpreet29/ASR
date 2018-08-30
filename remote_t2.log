@@ -1,0 +1,480 @@
+1000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.94 [ 719 / 1565, 102 ins, 63 del, 554 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_6309/decode_test/wer_10_1.0
+1000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.81 [ 717 / 1565, 104 ins, 65 del, 548 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_10000/decode_test/wer_12_1.0
+1000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.56 [ 713 / 1565, 107 ins, 64 del, 542 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_15848/decode_test/wer_11_1.0
+1000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.09 [ 737 / 1565, 106 ins, 73 del, 558 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_25118/decode_test/wer_12_1.0
+1000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.33 [ 725 / 1565, 107 ins, 73 del, 545 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_39810/decode_test/wer_11_1.0
+1000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.77 [ 732 / 1565, 102 ins, 64 del, 566 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_1000_63095/decode_test/wer_12_1.0
+2000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 52.08 [ 815 / 1565, 121 ins, 76 del, 618 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_1000/decode_test/wer_11_1.0
+2000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 52.14 [ 816 / 1565, 121 ins, 76 del, 619 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_1584/decode_test/wer_11_1.0
+2000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 49.84 [ 780 / 1565, 107 ins, 81 del, 592 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_2511/decode_test/wer_12_1.0
+2000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.71 [ 731 / 1565, 102 ins, 72 del, 557 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_3981/decode_test/wer_12_1.0
+2000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.75 [ 716 / 1565, 108 ins, 69 del, 539 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_6309/decode_test/wer_13_1.0
+2000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.24 [ 708 / 1565, 132 ins, 38 del, 538 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_10000/decode_test/wer_10_1.0
+2000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 43.71 [ 684 / 1565, 102 ins, 71 del, 511 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_15848/decode_test/wer_14_1.0
+2000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.60 [ 698 / 1565, 104 ins, 55 del, 539 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_25118/decode_test/wer_13_1.0
+2000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.88 [ 718 / 1565, 106 ins, 71 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_39810/decode_test/wer_13_1.0
+2000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 43.96 [ 688 / 1565, 100 ins, 68 del, 520 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_2000_63095/decode_test/wer_15_1.0
+3000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 49.39 [ 773 / 1565, 132 ins, 53 del, 588 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_1000/decode_test/wer_12_0.5
+3000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 49.39 [ 773 / 1565, 132 ins, 53 del, 588 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_1584/decode_test/wer_12_0.5
+3000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 49.39 [ 773 / 1565, 132 ins, 53 del, 588 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_2511/decode_test/wer_12_0.5
+3000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 48.24 [ 755 / 1565, 106 ins, 79 del, 570 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_3981/decode_test/wer_14_1.0
+3000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.50 [ 712 / 1565, 105 ins, 60 del, 547 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_6309/decode_test/wer_12_1.0
+3000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.86 [ 702 / 1565, 95 ins, 81 del, 526 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_10000/decode_test/wer_16_1.0
+3000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.69 [ 715 / 1565, 110 ins, 68 del, 537 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_15848/decode_test/wer_14_1.0
+3000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.88 [ 718 / 1565, 108 ins, 67 del, 543 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_25118/decode_test/wer_14_1.0
+3000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.09 [ 737 / 1565, 102 ins, 85 del, 550 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_39810/decode_test/wer_14_1.0
+3000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.56 [ 713 / 1565, 97 ins, 80 del, 536 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_3000_63095/decode_test/wer_17_1.0
+4000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.86 [ 749 / 1565, 108 ins, 74 del, 567 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_1000/decode_test/wer_13_1.0
+4000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.86 [ 749 / 1565, 108 ins, 74 del, 567 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_1584/decode_test/wer_13_1.0
+4000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.86 [ 749 / 1565, 108 ins, 74 del, 567 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_2511/decode_test/wer_13_1.0
+4000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 48.18 [ 754 / 1565, 109 ins, 75 del, 570 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_3981/decode_test/wer_13_1.0
+4000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.30 [ 709 / 1565, 115 ins, 73 del, 521 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_6309/decode_test/wer_13_1.0
+4000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 98 ins, 74 del, 535 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_10000/decode_test/wer_15_1.0
+4000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.15 [ 691 / 1565, 106 ins, 61 del, 524 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_15848/decode_test/wer_13_1.0
+4000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.71 [ 731 / 1565, 106 ins, 81 del, 544 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_25118/decode_test/wer_14_1.0
+4000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.67 [ 746 / 1565, 111 ins, 90 del, 545 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_39810/decode_test/wer_14_1.0
+4000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.62 [ 714 / 1565, 117 ins, 59 del, 538 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_4000_63095/decode_test/wer_13_1.0
+5000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.39 [ 726 / 1565, 113 ins, 62 del, 551 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_1000/decode_test/wer_12_1.0
+5000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.39 [ 726 / 1565, 113 ins, 62 del, 551 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_1584/decode_test/wer_12_1.0
+5000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.39 [ 726 / 1565, 113 ins, 62 del, 551 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_2511/decode_test/wer_12_1.0
+5000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.39 [ 726 / 1565, 113 ins, 62 del, 551 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_3981/decode_test/wer_12_1.0
+5000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.75 [ 716 / 1565, 105 ins, 69 del, 542 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_6309/decode_test/wer_13_1.0
+5000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 103 ins, 69 del, 535 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_10000/decode_test/wer_14_1.0
+5000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.05 [ 705 / 1565, 90 ins, 80 del, 535 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_15848/decode_test/wer_17_1.0
+5000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.13 [ 722 / 1565, 107 ins, 65 del, 550 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_25118/decode_test/wer_13_1.0
+5000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 47.35 [ 741 / 1565, 132 ins, 60 del, 549 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_39810/decode_test/wer_12_0.5
+5000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.43 [ 711 / 1565, 128 ins, 43 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_5000_63095/decode_test/wer_12_1.0
+6000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.77 [ 732 / 1565, 121 ins, 65 del, 546 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_1000/decode_test/wer_12_1.0
+6000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.77 [ 732 / 1565, 121 ins, 65 del, 546 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_1584/decode_test/wer_12_1.0
+6000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.77 [ 732 / 1565, 121 ins, 65 del, 546 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_2511/decode_test/wer_12_1.0
+6000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.77 [ 732 / 1565, 121 ins, 65 del, 546 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_3981/decode_test/wer_12_1.0
+6000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.52 [ 728 / 1565, 98 ins, 81 del, 549 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_6309/decode_test/wer_15_1.0
+6000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.86 [ 702 / 1565, 98 ins, 76 del, 528 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_10000/decode_test/wer_15_1.0
+6000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.28 [ 693 / 1565, 103 ins, 55 del, 535 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_15848/decode_test/wer_12_1.0
+6000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.05 [ 705 / 1565, 98 ins, 59 del, 548 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_25118/decode_test/wer_13_1.0
+6000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.07 [ 721 / 1565, 103 ins, 101 del, 517 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_39810/decode_test/wer_14_1.0
+6000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.20 [ 723 / 1565, 112 ins, 61 del, 550 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_6000_63095/decode_test/wer_14_1.0
+7000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.37 [ 710 / 1565, 100 ins, 68 del, 542 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_1000/decode_test/wer_14_1.0
+7000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.37 [ 710 / 1565, 100 ins, 68 del, 542 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_1584/decode_test/wer_14_1.0
+7000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.37 [ 710 / 1565, 100 ins, 69 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_2511/decode_test/wer_14_1.0
+7000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.37 [ 710 / 1565, 100 ins, 69 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_3981/decode_test/wer_14_1.0
+7000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.37 [ 710 / 1565, 100 ins, 69 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_6309/decode_test/wer_14_1.0
+7000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.69 [ 715 / 1565, 93 ins, 74 del, 548 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_10000/decode_test/wer_15_1.0
+7000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.11 [ 706 / 1565, 111 ins, 65 del, 530 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_15848/decode_test/wer_13_1.0
+7000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.88 [ 718 / 1565, 90 ins, 79 del, 549 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_25118/decode_test/wer_15_1.0
+7000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.26 [ 724 / 1565, 105 ins, 68 del, 551 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_39810/decode_test/wer_13_1.0
+7000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.43 [ 711 / 1565, 110 ins, 71 del, 530 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_7000_63095/decode_test/wer_14_1.0
+8000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 107 ins, 59 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_1000/decode_test/wer_13_1.0
+8000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 107 ins, 59 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_1584/decode_test/wer_13_1.0
+8000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 107 ins, 59 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_2511/decode_test/wer_13_1.0
+8000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 107 ins, 59 del, 541 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_3981/decode_test/wer_13_1.0
+8000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.18 [ 707 / 1565, 108 ins, 59 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_6309/decode_test/wer_13_1.0
+8000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.62 [ 714 / 1565, 112 ins, 64 del, 538 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_10000/decode_test/wer_13_1.0
+8000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.15 [ 691 / 1565, 102 ins, 60 del, 529 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_15848/decode_test/wer_12_1.0
+8000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.54 [ 697 / 1565, 99 ins, 74 del, 524 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_25118/decode_test/wer_14_1.0
+8000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.94 [ 719 / 1565, 119 ins, 58 del, 542 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_39810/decode_test/wer_13_0.5
+8000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.01 [ 720 / 1565, 98 ins, 70 del, 552 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_8000_63095/decode_test/wer_15_1.0
+9000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.94 [ 719 / 1565, 115 ins, 64 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_1000/decode_test/wer_12_1.0
+9000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.94 [ 719 / 1565, 115 ins, 64 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_1584/decode_test/wer_12_1.0
+9000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.01 [ 720 / 1565, 116 ins, 64 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_2511/decode_test/wer_12_1.0
+9000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.01 [ 720 / 1565, 116 ins, 64 del, 540 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_3981/decode_test/wer_12_1.0
+9000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.88 [ 718 / 1565, 115 ins, 64 del, 539 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_6309/decode_test/wer_12_1.0
+9000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.79 [ 701 / 1565, 93 ins, 72 del, 536 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_10000/decode_test/wer_15_1.0
+9000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 43.07 [ 674 / 1565, 99 ins, 60 del, 515 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_15848/decode_test/wer_13_1.0
+9000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.43 [ 711 / 1565, 106 ins, 74 del, 531 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_25118/decode_test/wer_15_0.5
+9000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.52 [ 728 / 1565, 81 ins, 100 del, 547 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_39810/decode_test/wer_16_1.0
+9000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.71 [ 731 / 1565, 114 ins, 56 del, 561 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_9000_63095/decode_test/wer_15_1.0
+10000 1000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_1000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.07 [ 721 / 1565, 110 ins, 56 del, 555 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_1000/decode_test/wer_12_1.0
+10000 1584 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_1584/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.07 [ 721 / 1565, 110 ins, 56 del, 555 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_1584/decode_test/wer_12_1.0
+10000 2511 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_2511/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.07 [ 721 / 1565, 110 ins, 56 del, 555 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_2511/decode_test/wer_12_1.0
+10000 3981 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_3981/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.07 [ 721 / 1565, 110 ins, 56 del, 555 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_3981/decode_test/wer_12_1.0
+10000 6309 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_6309/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.01 [ 720 / 1565, 110 ins, 56 del, 554 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_6309/decode_test/wer_12_1.0
+10000 10000 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_10000/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.33 [ 725 / 1565, 91 ins, 82 del, 552 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_10000/decode_test/wer_15_1.0
+10000 15848 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_15848/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 44.35 [ 694 / 1565, 101 ins, 70 del, 523 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_15848/decode_test/wer_14_1.0
+10000 25118 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_25118/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.05 [ 705 / 1565, 101 ins, 61 del, 543 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_25118/decode_test/wer_14_1.0
+10000 39810 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_39810/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 46.84 [ 733 / 1565, 106 ins, 77 del, 550 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_39810/decode_test/wer_13_1.0
+10000 63095 :::
+::::::::::::::
+/afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_63095/decode_test/scoring_kaldi/best_wer
+::::::::::::::
+%WER 45.88 [ 718 / 1565, 131 ins, 56 del, 531 sub ] /afs/inf.ed.ac.uk/user/s15/s1580425/asrworkdir/exp/tri_t2_10000_63095/decode_test/wer_13_1.0
